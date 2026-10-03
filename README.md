@@ -1,8 +1,10 @@
 # Calculadora WEB — Tarea 2
 
-**Curso:** Programación WEB (2026-C-003)
 **Profesor:** Raydelto Hernández — ITLA
-**Puntuación:** 8 puntos
+
+## Captura de pantalla
+
+![Mi captura de pantalla](calculadoraweb.png)
 
 ## Descripción
 
@@ -19,12 +21,12 @@ sesiones usando `localStorage`, hasta que el usuario decide borrarlo.
 
 ## Tecnologías utilizadas
 
-| Tecnología | Uso |
-|---|---|
-| HTML5 | Estructura del teclado, pantalla y cinta de historial |
-| CSS3 | Estilo visual (gradientes, grid, sombras, diseño responsivo) |
-| JavaScript (ES5) | Lógica de la calculadora y manejo del historial |
-| `localStorage` | Persistencia del historial de cálculos en el navegador |
+| Tecnología       | Uso                                                          |
+| ---------------- | ------------------------------------------------------------ |
+| HTML5            | Estructura del teclado, pantalla y cinta de historial        |
+| CSS3             | Estilo visual (gradientes, grid, sombras, diseño responsivo) |
+| JavaScript (ES5) | Lógica de la calculadora y manejo del historial              |
+| `localStorage`   | Persistencia del historial de cálculos en el navegador       |
 
 > El JavaScript se escribió deliberadamente en **ES5** (`var`, funciones
 > declaradas, sin arrow functions ni `let`/`const`) para ajustarse al tema de
